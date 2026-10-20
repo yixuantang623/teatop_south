@@ -237,7 +237,7 @@ body, html {
   margin-top: 5px;
 }
 
-.R02Cname::after {
+/* .R02Cname::after {
   content: "";
   display: inline-block;
   width: 6%;
@@ -247,7 +247,7 @@ body, html {
   background-repeat: no-repeat;
   margin-left: 3px;
   background-position: center bottom;
-}
+} */
 
 /* .R04Cname::after {
   content: "";
@@ -261,7 +261,7 @@ body, html {
   background-position: center bottom;
 } */
 
-.R06Cname::after, .R10Cname::after {
+/* .R06Cname::after, .R10Cname::after {
   content: "";
   display: inline-block;
   width: 1.35vw;
@@ -270,7 +270,7 @@ body, html {
   background-color: rgb(138, 184, 186);
   margin-left: 6px;
   background-position: center bottom;
-}
+} */
 
 
 
